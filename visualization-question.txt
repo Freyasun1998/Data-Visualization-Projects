@@ -1,0 +1,3 @@
+My visualizaion question: Does the number of credit cards for an account affect the maximum balance in the account?
+The number of credit cards results in different user behaviour. By investigating how credit card the maximum balance in the account, we may get the result deviating from our common sense.
+In order to make that analysis, we can take samples to reduce the size of the data set. I chose 200 credit card users and 200 non-credit card users sampling. I also created two visualizations for the sample, showing the distribution of the sampled data.
